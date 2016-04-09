@@ -1,0 +1,17 @@
+
+v.2016.1.2.2 (from 26.12.2015)
+- Add about dialog
+- Add Space UniqueID(GUID) in out file
+- User can chose CP1251 or UTF8 charset support
+
+v.2016.12.20.0 (from 20.12.2015)
+- Add revit 2016 support
+- Add CP1251 charset support
+
+v.2014.11.18.0 (v1.2)
+- Add support for Revit 2015
+- Fix Windows Region decimal separator bug
+- Allows Doors and Windows to be written to STF file as well.
+
+v.2014.11.18.0 (v1.1)
+- Bug fixes.
