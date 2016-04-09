@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Kyle T. Morin, Pichugin M.")]
 [assembly: AssemblyProduct("STF Exporter (Cyrillic extension version)")]
-[assembly: AssemblyCopyright("Copyright 2014 © Kyle T. Morin")]
+[assembly: AssemblyCopyright("Copyright 2014 Â© Kyle T. Morin")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
